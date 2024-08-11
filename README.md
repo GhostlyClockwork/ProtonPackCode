@@ -1,5 +1,5 @@
 # ProtonPackCode
-Circuit Python code for Qpack Lights and Sounds
+Circuit Python code for Qpack Lights and Sounds, written by Mike Buland
 
 Parts List - 
 
